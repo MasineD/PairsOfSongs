@@ -15,6 +15,7 @@ Your task is to find and return the number of pairs of songs (i, j) such that:
     2.The sum of their durations is divisible by 60, i.e., (time[i] + time[j]) % 60 == 0.
 
 Constraints:
+    
     1. 1 ≤ time.length ≤ 1000
     2. 1≤ time[i] ≤ 500
 
